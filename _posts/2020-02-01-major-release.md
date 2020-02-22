@@ -11,8 +11,8 @@ The great and long-expected **Groot-o-mat** is part of this release.
 Note: 
 
 - Sharing release notes on a regular basis also helps set the right expectations. 
-  https://www.appcues.com/blog/release-notes-examples
   - Keep product release notes brief
   - Avoid technical jargon
   - Help users explore new features
   - Write release notes like they matter
+  - Info coming from [release-notes-examples@appcues](https://www.appcues.com/blog/release-notes-examples)
