@@ -5,6 +5,7 @@ category: Weekly summary
 week: 42
 ---
 
-- Bugfix: topic 1
-- Bugfix: topic 11
-- Featue: Groot-o-mat
+We've worked hard this week to make you happy!
+
+- Fixed Groot-o-mat Connection issues (#1234)
+- Released Groot-o-mat
