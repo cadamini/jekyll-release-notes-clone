@@ -1,0 +1,26 @@
+<article>
+  <span class="post-category">
+    <span class="label">
+      {{ post.categories | array_to_sentence_string }}
+    </span>
+  </span>
+  <div class="post-meta">
+    <span class="post-date">
+      {{ post.date | date_to_string }}
+    </span>
+
+    {% if post.week %}
+      <span class="post-version">
+      | <b>WEEK:</b> {{ post.week }}
+      </span>
+    {% else %}
+      <span class="post-version">
+      | <b>Version:</b> {{ post.version }}
+      </span>
+    {% endif %}
+    
+  </div>
+  <div class="post-content">
+    {{ post.content }}
+  </div>
+</article>

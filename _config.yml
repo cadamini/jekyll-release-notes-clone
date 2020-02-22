@@ -1,0 +1,23 @@
+---
+name: changelog
+description: recent releases example page
+collections:
+  posts:
+    permalink: "/news/:year/:month/:day/:title/"
+    output: true
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: news_item
+kramdown:
+  syntax_highlighter_opts:
+    default_lang: plaintext
+sass:
+  style: compressed
+strict_front_matter: true
+exclude:
+#- ".gitignore"
+- ".jekyll-cache"
+- readme.md

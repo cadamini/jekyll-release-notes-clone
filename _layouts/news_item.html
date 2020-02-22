@@ -1,0 +1,22 @@
+---
+layout: news
+---
+
+<article>
+  <span class="post-category">
+    <span class="label">
+      {{ page.categories | array_to_sentence_string }}
+    </span>
+  </span>
+  <div class="post-meta">
+    <span class="post-date">
+      {{ page.date | date_to_string }}
+    </span>
+    <span class="post-version">
+    | <b>Version:</b> {{ page.version }}
+    </span>
+  </div>
+  <div class="post-content">
+    {{ content }}
+  </div>
+</article>

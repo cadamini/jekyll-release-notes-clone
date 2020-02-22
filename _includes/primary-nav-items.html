@@ -1,0 +1,7 @@
+<ul>
+  {% for p in site.data.primary_nav %}
+  <li class="current">
+    <a href="{{ p.link }}">{{ p.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
