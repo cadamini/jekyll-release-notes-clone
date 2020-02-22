@@ -4,10 +4,11 @@ version: "1.0"
 category: major release
 ---
 
-Major release of the project in a long while. v1.0.0 is
-finally here! While the list of improvements and bug fixes is [quite lengthy][history],
+A completely new versions released today!
 
-- topic 1
-- topic 11
-- topic 12
-- topic 13
+- https://www.appcues.com/blog/release-notes-examples
+- Keep product release notes brief
+- Avoid technical jargon
+- Help users explore new features
+- Write release notes like they matter
+
