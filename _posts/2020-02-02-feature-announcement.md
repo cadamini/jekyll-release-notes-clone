@@ -1,5 +1,5 @@
 ---
-date: "2020-02-02"
+date: "2020-01-21"
 version: "1.2"
 category: Upcoming feature
 ---
