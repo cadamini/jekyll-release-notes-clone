@@ -4,11 +4,14 @@ version: "1.0"
 category: major release
 ---
 
-A completely new versions released today!
 
-- https://www.appcues.com/blog/release-notes-examples
-- Keep product release notes brief
-- Avoid technical jargon
-- Help users explore new features
-- Write release notes like they matter
+
+**A completely new versions released today!**
+
+- Sharing release notes on a regular basis also helps set the right expectations. 
+  https://www.appcues.com/blog/release-notes-examples
+  - Keep product release notes brief
+  - Avoid technical jargon
+  - Help users explore new features
+  - Write release notes like they matter
 
