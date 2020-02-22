@@ -10,14 +10,18 @@
     </span>
 
     {% if post.week %}
-      <span class="post-version">
+      <span class="post-week">
       | <b>WEEK:</b> {{ post.week }}
       </span>
+    {% elsif post.category == 'Upcoming Feature' %}
+      <span class="no-info"></span>
     {% else %}
       <span class="post-version">
       | <b>Version:</b> {{ post.version }}
       </span>
     {% endif %}
+    
+    
     
   </div>
   <div class="post-content">
