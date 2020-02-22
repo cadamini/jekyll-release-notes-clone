@@ -4,4 +4,4 @@ version: "1.2"
 category: Upcoming feature
 ---
 
-We will release the *Groot-o-mat* next week! [read more](http://www.google.de)
+We will release the [Groot-o-mat](https://www.google.com/search?q=Groot-o-mat) next week!
